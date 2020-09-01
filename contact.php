@@ -266,7 +266,7 @@ if(isset($_POST["submit"]))
 				<div class="row animate-box">
 					<div class="col-md-8 col-md-offset-2 text-center">
 						<h2>Fitness Classes this Summer <br> <span> Pay Now and <br> Get <span
-									class="percent">Best%</span> Deal</span></h2>
+									class="percent">Best</span> Deal</span></h2>
 					</div>
 				</div>
 				<div class="row animate-box">
